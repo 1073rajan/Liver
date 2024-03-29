@@ -39,13 +39,14 @@ Each instance in the dataset is labeled with the presence or absence of liver di
 Our model achieved an accuracy of X% on the test set, demonstrating its effectiveness in predicting Liver. 
 Further details on performance metrics and visualization of results can be found in the project documentation.
 
+## Contribution
+Contributions to the project are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request or open an issue.
+
+
 ## Usage
 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/1073rajan/Diabetes.git
+git clone https://github.com/1073rajan/Liver.git
 
-
-## Contribution
-Contributions to the project are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request or open an issue.
